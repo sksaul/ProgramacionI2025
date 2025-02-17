@@ -1,0 +1,51 @@
+Resumen: 
+Git es una herramienta que permite organizar de manera que permite regresar y modificar codigo o archivos de proyectos que esten en una 
+version mas avanzada, el video muetra la cantidad de comandos que posee la consola de git (git add, git status, git commit), enseña paso a paso 
+la instalacion del ejecutable, esta disponible para que los desarrolladores interactuen entre proyectos personales o de alguien mas.
+
+Este programa fue desarrollado por el creador de linux, ya que el necesitaba de una herramienta que le permitiera almacenar los diferentes 
+avances y versiones de sus proyectos.
+
+
+Preguntas:
+1.¿Que es GIT?
+   Es un sistema de control de versiones, permite administrar codigos de caulquier programador utilizando el historial
+   de cambios, al utilizar esta herramienta nos permite crear y administrar archivos en un directorio o en repositorio remoto. 	
+
+2.¿Cuales son los comandos mas importantes y para que sirven?
+   git init: para inicializar un proyecto nuevo.
+   git status: para ver el estado de nuestros archivos.
+   git add: para agregar un archvo al staging area. 
+   git commit: para crear un primer punto de control de nuestro codigo.
+   git push: para enviar los cambios a un repositorio remoto.
+
+3.¿Cual es la diferencia entre Git y Github?
+  Git: Es una herramienta que nos permite gestionar versiones de un proyecto 
+       de manera local.
+  
+  Github: es una plataforma online el cual permite subir, crear y almacenar
+  repositorios desde nuestra pc
+
+4.Enumere los comandos para subir cambios a un repositorio:
+  1. git status para ver que archivos no estan almcenado
+  2. git add .  para agregar todos los nuevos archivos
+  3. gir commit -m "para describir el commit"
+  4. git push para subirlos al repositorio
+
+5.¿Que es una branch?
+   Es una rama independiente del codigo principal, el cual es creado para realizar
+   otras carpetas sin modificar nada a la rama principal.
+   se utiliza git branch "nombre" para craer la nueva rama 
+   git branch checkout para cambiar. 
+
+6. ¿Cual es la diferencia entre un repositorio local y un repositorio remoto?
+   La diferencia es que en el local se encuentra almacenado en nuestra computadora
+   y el remoto se almacena en la nube(github).
+
+7. Cuales son los comandos basicos para: 
+-Iniciar un repositorio: git init
+-Descaragar un repositorio: git clone
+-Agregar archivos a un repositorio local: git add
+-Confirmar cambios en un repositorio local: git commit -m ""
+-Subir cambios a un repositorio remoto: git push 
+-Revertir cambios en una branch: git checkout --
