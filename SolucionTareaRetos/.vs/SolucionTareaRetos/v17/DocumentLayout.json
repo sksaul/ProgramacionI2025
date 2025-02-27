@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616DA011-0034-48C7-9A48-8D4314269AA4}|TareaRetos\\TareaRetos.csproj|c:\\users\\saul\\desktop\\programacioni2025\\soluciontarearetos\\tarearetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616DA011-0034-48C7-9A48-8D4314269AA4}|TareaRetos\\TareaRetos.csproj|solutionrelative:tarearetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BB5DD-A568-4DC2-A21E-9B4ABEF15B50}|reto4\\reto4.csproj|c:\\users\\saul\\desktop\\programacioni2025\\soluciontarearetos\\reto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BB5DD-A568-4DC2-A21E-9B4ABEF15B50}|reto4\\reto4.csproj|solutionrelative:reto4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A1B02D-5B2E-400A-9CE6-7272052E770A}|reto2\\reto2.csproj|c:\\users\\saul\\desktop\\programacioni2025\\soluciontarearetos\\reto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A1B02D-5B2E-400A-9CE6-7272052E770A}|reto2\\reto2.csproj|solutionrelative:reto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC16144-BE59-49A9-84A7-7546342A580E}|reto3\\reto3.csproj|c:\\users\\saul\\desktop\\programacioni2025\\soluciontarearetos\\reto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC16144-BE59-49A9-84A7-7546342A580E}|reto3\\reto3.csproj|solutionrelative:reto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145F7721-FCE1-47C9-830F-10521DFC1620}|reto5\\reto5.csproj|c:\\users\\saul\\desktop\\programacioni2025\\soluciontarearetos\\reto5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145F7721-FCE1-47C9-830F-10521DFC1620}|reto5\\reto5.csproj|solutionrelative:reto5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DA011-0034-48C7-9A48-8D4314269AA4}|TareaRetos\\TareaRetos.csproj|c:\\users\\saul\\desktop\\programacioni2025\\soluciontarearetos\\tarearetos\\tarearetos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{616DA011-0034-48C7-9A48-8D4314269AA4}|TareaRetos\\TareaRetos.csproj|solutionrelative:tarearetos\\tarearetos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareaRetos.csproj",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\TareaRetos\\TareaRetos.csproj",
+              "RelativeDocumentMoniker": "TareaRetos\\TareaRetos.csproj",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\TareaRetos\\TareaRetos.csproj",
+              "RelativeToolTip": "TareaRetos\\TareaRetos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T04:36:37.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto5\\Program.cs",
+              "RelativeDocumentMoniker": "reto5\\Program.cs",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto5\\Program.cs",
+              "RelativeToolTip": "reto5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:36:27.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto4\\Program.cs",
+              "RelativeDocumentMoniker": "reto4\\Program.cs",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto4\\Program.cs",
+              "RelativeToolTip": "reto4\\Program.cs",
+              "ViewState": "AgIAABEAAADAzMzMzEwvwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:30:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto3\\Program.cs",
+              "RelativeDocumentMoniker": "reto3\\Program.cs",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto3\\Program.cs",
+              "RelativeToolTip": "reto3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:05:47.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto2\\Program.cs",
+              "RelativeDocumentMoniker": "reto2\\Program.cs",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\reto2\\Program.cs",
+              "RelativeToolTip": "reto2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:52:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\TareaRetos\\Program.cs",
+              "RelativeDocumentMoniker": "TareaRetos\\Program.cs",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\ProgramacionI2025\\SolucionTareaRetos\\TareaRetos\\Program.cs",
+              "RelativeToolTip": "TareaRetos\\Program.cs",
+              "ViewState": "AgIAAAsAAABAnpmZmZkbwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:49:10.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

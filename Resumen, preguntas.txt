@@ -49,3 +49,4 @@ Preguntas:
 -Confirmar cambios en un repositorio local: git commit -m ""
 -Subir cambios a un repositorio remoto: git push 
 -Revertir cambios en una branch: git checkout --
+-git log revertir cambios de un repositorio

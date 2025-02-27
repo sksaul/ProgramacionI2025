@@ -1,0 +1,15 @@
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.AssemblyInfo.cs
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.sourcelink.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\bin\Debug\net8.0\reto4.exe
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\bin\Debug\net8.0\reto4.deps.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\bin\Debug\net8.0\reto4.runtimeconfig.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\bin\Debug\net8.0\reto4.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\bin\Debug\net8.0\reto4.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\refint\reto4.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\reto4.genruntimeconfig.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto4\obj\Debug\net8.0\ref\reto4.dll

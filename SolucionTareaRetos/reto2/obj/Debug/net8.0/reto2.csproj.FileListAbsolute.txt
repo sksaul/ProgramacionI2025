@@ -1,0 +1,15 @@
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\bin\Debug\net8.0\reto2.exe
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\bin\Debug\net8.0\reto2.deps.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\bin\Debug\net8.0\reto2.runtimeconfig.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\bin\Debug\net8.0\reto2.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\bin\Debug\net8.0\reto2.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.AssemblyInfo.cs
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.sourcelink.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\refint\reto2.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\reto2.genruntimeconfig.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto2\obj\Debug\net8.0\ref\reto2.dll

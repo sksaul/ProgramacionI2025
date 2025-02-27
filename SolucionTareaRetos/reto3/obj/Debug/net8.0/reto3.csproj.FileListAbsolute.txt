@@ -1,0 +1,15 @@
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\bin\Debug\net8.0\reto3.exe
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\bin\Debug\net8.0\reto3.deps.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\bin\Debug\net8.0\reto3.runtimeconfig.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\bin\Debug\net8.0\reto3.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\bin\Debug\net8.0\reto3.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.AssemblyInfo.cs
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.sourcelink.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\refint\reto3.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\reto3.genruntimeconfig.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\reto3\obj\Debug\net8.0\ref\reto3.dll

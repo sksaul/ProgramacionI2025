@@ -1,0 +1,15 @@
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\bin\Debug\net8.0\TareaRetos.exe
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\bin\Debug\net8.0\TareaRetos.deps.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\bin\Debug\net8.0\TareaRetos.runtimeconfig.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\bin\Debug\net8.0\TareaRetos.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\bin\Debug\net8.0\TareaRetos.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.AssemblyInfo.cs
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.sourcelink.json
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\refint\TareaRetos.dll
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.pdb
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\TareaRetos.genruntimeconfig.cache
+C:\Users\Saul\Desktop\ProgramacionI2025\SolucionTareaRetos\TareaRetos\obj\Debug\net8.0\ref\TareaRetos.dll
